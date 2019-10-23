@@ -1,1 +1,5 @@
 Wisam waz here!
+<<<<<<< HEAD
+=======
+Gabe waz here tooooooo!
+>>>>>>> 6f4e6e77d422e405cee627d0d68ea7f69e53258f
